@@ -5,6 +5,7 @@ public class Main {
         Car c1 = new Car(3);
         int[] arr = {1, 2, 3, 4, 5};
         System.out.println(findIdx(arr, 8));
+        System.out.println("Lol");
     }
 
     /**
