@@ -9,7 +9,8 @@ class CarTest {
     @Test
     public void testConstructor() {
         Car c1 = new Car(3);
-        assertEquals(8, c1.x);
+        assertEquals(3, c1.x);
+        assertEquals(4, c1.x);
     }
 
 }
